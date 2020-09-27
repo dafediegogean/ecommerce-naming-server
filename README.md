@@ -1,6 +1,6 @@
 # E-commerce Naming Server
 
-An microservice with Java 11, Spring Cloud Houxton SR4 and Netflix OSS
+An naming server with Java 11, Spring Cloud Hoxton SR4, Spring Cloud Config Client and Netflix Eureka for Service Discovery, Service Provider, Service Consumer and Service Registry
 
 ## Reference Documentation
 
