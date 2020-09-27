@@ -1,6 +1,6 @@
 # E-commerce Naming Server
 
-An naming server with Java 11, Spring Cloud Hoxton SR4, Spring Cloud Config Client and Netflix Eureka for Service Discovery, Service Provider, Service Consumer and Service Registry
+An naming server with Java 11, Spring Cloud Hoxton SR4, Spring Cloud Config Client and Netflix Eureka for Service Discovery, Service Provider, Service Consumer and Service Registry, JUnit 5
 
 ## Reference Documentation
 
