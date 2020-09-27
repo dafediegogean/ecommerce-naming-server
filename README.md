@@ -17,7 +17,7 @@ Provider server responsible for discover/to locate new services. Between them:
  - Service Discovery;
  - Service Registry;
  - Load balancing;
- - Failover of middle-tier services
+ - Failover of middle-tier services;
 
 ## Installation
 
