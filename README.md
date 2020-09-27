@@ -4,7 +4,7 @@ An naming server with Java 11, Spring Cloud Hoxton SR4, Spring Cloud Config Clie
 
 ## Reference Documentation
 
-### Provider Server
+### Naming Server
 
 -   ecommerce-naming-server
 
